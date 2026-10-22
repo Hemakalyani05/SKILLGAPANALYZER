@@ -13,7 +13,8 @@ const app = express();
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
-  'https://skillgapai-fsd-frontend.onrender.com'
+  'https://skillgapai-fsd-frontend.onrender.com',
+   'https://skillgapanalyzer-wwfp.vercel.app'
 ];
 
 // CORS configuration
