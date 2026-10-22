@@ -14,7 +14,8 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
   'https://skillgapai-fsd-frontend.onrender.com',
-   'https://skillgapanalyzer-wwfp.vercel.app'
+   'https://skillgapanalyzer-wwfp.vercel.app',
+   'https://skillgapanalyzer-wwfp-bwftajl37-hemakalyani05.vercel.app'
 ];
 
 // CORS configuration
