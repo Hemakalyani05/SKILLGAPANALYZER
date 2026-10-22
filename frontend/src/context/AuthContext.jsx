@@ -4,8 +4,9 @@ import axios from 'axios';
 export const AuthContext = createContext();
 
 // Axios instance
+
 const api = axios.create({
-  baseURL: 'https://skillgap-fsd-backend.onrender.com/api',
+  baseURL: 'http://localhost:5001/api',
 });
 
 // Set token to headers
